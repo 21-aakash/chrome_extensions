@@ -1,0 +1,24 @@
+/* Style for the container of the joke */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ebf193;
+    width: 200px;
+    height: 200px;
+
+    display: flex;
+    justify-content: center;
+}
+
+/* Style for the joke text */
+p{
+    font-size: 15px;
+    color: #2e2e2e;
+    
+
+    display:inline-flex ;
+    margin: auto 5px;
+
+    border-radius: 5px;
+    border: 1px solid lightslategray;
+    padding: 10px;
+}
